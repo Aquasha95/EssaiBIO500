@@ -31,7 +31,7 @@ output: rticles::pnas_article
 ---
 
 # Introduction
-
+Je veux juste que sa fonctionne
 Depuis la pandémie, la quantité d'articles scientifiques publiée sur des sites de prépublication à énormément augmenté. Cet accès facile à la publication sans délais importants et sans révisions par les paires est intéressant pour les chercheurs qui veulent faire connaître leurs recherches et cherchent la reconnaissance dans leur domaine. Cependant, un article publié dans de tels sites n'est pas révisé et peut contenir plusieurs erreurs qui, normalement, auraient pu être détectées avec la publication par des réviseurs. De plus, le plus grand problème est le faible taux de réplication de ses articles. Normalement, un journal scientifique va effectuer une révision d'un article reçue pour, ainsi, minimiser les erreurs potentielles. Cependant, même après une révision, la reproductibilité des expérimentations scientifiques est quelque chose de difficile à atteindre. La majorité des chercheurs, soit près de 70%, affirment n'ayant pas réussi à reproduire l'expérience d'un autre chercheur (@baker2016reproducibility). Ainsi, la reproductibilité des résultats obtenus dans ses articles peut être difficile.
 
 Le but de cet essai est de permettre aux chercheurs de comprendre l'importance des principes de standards de reproduction, en mettant de l'avant des stratégies tel que la prise de données, l'utilisation de divers logiciels, ainsi que la transparence.
