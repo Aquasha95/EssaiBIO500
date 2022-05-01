@@ -16,9 +16,18 @@ abstract: |
    potentielles qui affecteraient la reproductibilité et d'offrir une transparence
    au niveau des données et de l'analyse des études. Ainsi, avec ce type de standards,
    la science pourra avancer plus rapidement.
-output:
-  pdf_document: default
-  html_document: default
+keywords:
+- logiciels
+- prise de données
+- protocole
+- reproductibilité
+- transparence
+
+pnas_type: pnasresearcharticle
+bibliography: pnas-sample.bib
+csl: pnas.csl
+lineno: false
+output: rticles::pnas_article
 ---
 
 # i hate this
