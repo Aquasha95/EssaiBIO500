@@ -27,12 +27,11 @@ bibliography: pnas-sample.bib
 csl: pnas.csl
 lineno: False
 output: rticles::pnas_article
-  
 ---
 
 # Introduction
-Je veux juste que sa fonctionne
-Depuis la pandémie, la quantité d'articles scientifiques publiée sur des sites de prépublication à énormément augmenté. Cet accès facile à la publication sans délais importants et sans révisions par les paires est intéressant pour les chercheurs qui veulent faire connaître leurs recherches et cherchent la reconnaissance dans leur domaine. Cependant, un article publié dans de tels sites n'est pas révisé et peut contenir plusieurs erreurs qui, normalement, auraient pu être détectées avec la publication par des réviseurs. De plus, le plus grand problème est le faible taux de réplication de ses articles. Normalement, un journal scientifique va effectuer une révision d'un article reçue pour, ainsi, minimiser les erreurs potentielles. Cependant, même après une révision, la reproductibilité des expérimentations scientifiques est quelque chose de difficile à atteindre. La majorité des chercheurs, soit près de 70%, affirment n'ayant pas réussi à reproduire l'expérience d'un autre chercheur (@baker2016reproducibility). Ainsi, la reproductibilité des résultats obtenus dans ses articles peut être difficile.
+
+Je veux juste que sa fonctionne Depuis la pandémie, la quantité d'articles scientifiques publiée sur des sites de prépublication à énormément augmenté. Cet accès facile à la publication sans délais importants et sans révisions par les paires est intéressant pour les chercheurs qui veulent faire connaître leurs recherches et cherchent la reconnaissance dans leur domaine. Cependant, un article publié dans de tels sites n'est pas révisé et peut contenir plusieurs erreurs qui, normalement, auraient pu être détectées avec la publication par des réviseurs. De plus, le plus grand problème est le faible taux de réplication de ses articles. Normalement, un journal scientifique va effectuer une révision d'un article reçue pour, ainsi, minimiser les erreurs potentielles. Cependant, même après une révision, la reproductibilité des expérimentations scientifiques est quelque chose de difficile à atteindre. La majorité des chercheurs, soit près de 70%, affirment n'ayant pas réussi à reproduire l'expérience d'un autre chercheur (@baker2016reproducibility). Ainsi, la reproductibilité des résultats obtenus dans ses articles peut être difficile.
 
 Le but de cet essai est de permettre aux chercheurs de comprendre l'importance des principes de standards de reproduction, en mettant de l'avant des stratégies tel que la prise de données, l'utilisation de divers logiciels, ainsi que la transparence.
 
@@ -48,7 +47,7 @@ Pour permettre une meilleure reproductibilité, il y a plusieurs choses à prend
 
 L'article de Borreggard et Hart 2016(@borregaard2016towards) quant à lui, cherche à amener des solutions pour augmenter la reproductibilité des recherches scientifiques. Il fait mention de plusieurs outils pouvant aider les chercheurs à avoir des standards plus élevés au niveau de la reproductibilité. Plusieurs de ses outils peuvent apporter une aide précieuse aux chercheurs et surtout ceux dans le domaine de l'écologie. De nos jours, la majorité des données prises dans ce domaine sont par la suite analysées par des logiciels informatiques comme R pour permettre de comprendre et d'interpréter les résultats. Comme l'utilisation de logiciel informatique pour l'analyse de données se fait de plus en plus fréquente, les récentes technologies peuvent maintenant collaborer entre eux pour permettre l'acquisition des données, leur analyse et la création de différents graphiques pour ainsi établir un environnement de travail documenté et standardisé. Dans leur article, Borreggard et Hart ont effectué une liste des différents logiciels souvent utilisés et la façon dont ils peuvent venir aider les chercheurs dans leurs analyses pour leur permettre de voir les différentes erreurs et augmenter la reproductibilité.
 
-![Table des logiciels et des éléments auxquels ils peuvent aider pour la reproductibilité en écologie. \@borregaard2016towards](Borregaard2016.png)
+[![Table des logiciels et des éléments auxquels ils peuvent aider pour la reproductibilité en écologie. \@borregaard2016towards](images/Borregaard2016-01.png)](@borregaard2016towards)
 
 # Transparence
 
