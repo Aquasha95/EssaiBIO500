@@ -1,7 +1,7 @@
 ---
-titre: "Les standards de reproductibilité, un principe important en recherche."
+titre: Les standards de reproductibilité, un principe important en recherche.
 author:
-- name: "Laura Béland"
+- name: Laura Béland
   affiliation: a
 address:
 - code: a
@@ -24,7 +24,7 @@ keywords:
 - transparence
 pnas_type: pnasresearcharticle
 bibliography: pnas-sample.bib
-csl: pnas-new.csl
+csl: pnas.csl
 lineno: False
 output: rticles::pnas_article
   
