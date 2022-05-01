@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.1)  1 MAY 2022 13:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.1)  1 MAY 2022 13:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1080,73 +1080,73 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 
 ]
-<images/Borregaard2016-01.png, id=55, 491.33563pt x 122.4575pt>
+<images/Borregaard2016-01.png, id=59, 491.33563pt x 122.4575pt>
 File: images/Borregaard2016-01.png Graphic file (type png)
 <use images/Borregaard2016-01.png>
-Package pdftex.def Info: images/Borregaard2016-01.png  used on input line 238.
+Package pdftex.def Info: images/Borregaard2016-01.png  used on input line 241.
 (pdftex.def)             Requested size: 491.33443pt x 122.45718pt.
 
-Overfull \hbox (257.23756pt too wide) in paragraph at lines 238--239
-[][][][][][] 
+Overfull \hbox (245.23756pt too wide) in paragraph at lines 241--242
+[][][][][] 
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 252--252
+Underfull \hbox (badness 1776) in paragraph at lines 255--255
 []\T1/lmr/m/n/9 (+20) Baker M (2016) Re-pro-ducibil-ity cri-sis. \T1/lmr/m/it/9 (+20) Na-ture
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 249--253
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 252--256
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--253
+Underfull \hbox (badness 10000) in paragraph at lines 252--256
 
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 254--258
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 257--261
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--258
+Underfull \hbox (badness 10000) in paragraph at lines 257--261
 
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 259--263
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 262--266
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--263
+Underfull \hbox (badness 10000) in paragraph at lines 262--266
 
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 264--269
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 267--272
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--269
+Underfull \hbox (badness 10000) in paragraph at lines 267--272
 
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 274--274
+Underfull \hbox (badness 2237) in paragraph at lines 277--277
 \T1/lmr/m/n/9 (+20) re-pro-ducibil-ity in ar-ti-fi-cial in-tel-li-gence. \T1/lmr/m/it/9 (+20) Na-ture
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 270--275
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 273--278
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--275
+Underfull \hbox (badness 10000) in paragraph at lines 273--278
 
  []
 
@@ -1154,21 +1154,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 270--275
 AED: lastpage setting LastPage
 [2 <./images/Borregaard2016-01.png>] (./patate.aux)
 Package rerunfilecheck Info: File `patate.out' has not changed.
-(rerunfilecheck)             Checksum: 1E962E4B1B5911811161E50A51194CC7;756.
+(rerunfilecheck)             Checksum: 0BEAB50383F2232EA9E7658FA8860C8F;829.
  ) 
 Here is how much of TeX's memory you used:
- 29569 strings out of 480265
- 552785 string characters out of 5892972
- 881270 words of memory out of 5000000
- 46738 multiletter control sequences out of 15000+600000
+ 29573 strings out of 480265
+ 552819 string characters out of 5892972
+ 881299 words of memory out of 5000000
+ 46740 multiletter control sequences out of 15000+600000
  538525 words of font info for 150 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,14n,118p,1003b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr5.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on patate.pdf (2 pages, 204572 bytes).
+Output written on patate.pdf (2 pages, 204761 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 52298 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
+ 52306 words of extra memory for PDF output out of 61914 (max. 10000000)
 
