@@ -58,5 +58,5 @@ Un autre aspect qui vient jouer un rôle au niveau de la reproductibilité et qu
 Ainsi, les standards de reproductibilité sont importants pour un article scientifique. Ils permettent de confirmer les résultats et les analyses présentes dans l'article en plus d'offrir la chance aux chercheurs une meilleure compréhension. Pour s'assurer d'une bonne reproductibilité, il faut avoir de bonnes pratiques au niveau de la prise de données, de leur entreposage. Il existe plusieurs logiciels et méthodes permettant de rendre ces standards plus facilement atteignable. Également, la transparence, dans une certaine mesure, est la clé pour permettre à d'autres chercheurs de pouvoir répliquer la recherche. Bien que la science évolue constamment, les standards de reproductibilités devraient faire partie de cette évolution et être intégré à la science. Il y a, cependant, plusieurs autres aspects de ses standards qui restent à développer.
 
 \newpage
-
+\newpage
 # Bibliographie {.unnumbered}
