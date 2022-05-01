@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.1)  1 MAY 2022 13:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.1)  1 MAY 2022 13:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1074,8 +1074,11 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 9.49997pt on input line 107.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 5.69998pt on input line 151.
+
+Underfull \vbox (badness 2452) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 220.
+(Font)              scaled to size 6.64998pt on input line 221.
 [1{c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -1083,70 +1086,70 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 <images/Borregaard2016-01.png, id=59, 491.33563pt x 122.4575pt>
 File: images/Borregaard2016-01.png Graphic file (type png)
 <use images/Borregaard2016-01.png>
-Package pdftex.def Info: images/Borregaard2016-01.png  used on input line 241.
+Package pdftex.def Info: images/Borregaard2016-01.png  used on input line 242.
 (pdftex.def)             Requested size: 491.33443pt x 122.45718pt.
 
-Overfull \hbox (245.23756pt too wide) in paragraph at lines 241--244
+Overfull \hbox (245.23756pt too wide) in paragraph at lines 242--245
 [][][][][]
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 257--257
+Underfull \hbox (badness 1776) in paragraph at lines 258--258
 []\T1/lmr/m/n/9 (+20) Baker M (2016) Re-pro-ducibil-ity cri-sis. \T1/lmr/m/it/9 (+20) Na-ture
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 254--258
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 255--259
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--258
+Underfull \hbox (badness 10000) in paragraph at lines 255--259
 
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 259--263
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 260--264
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--263
+Underfull \hbox (badness 10000) in paragraph at lines 260--264
 
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 264--268
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 265--269
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--268
+Underfull \hbox (badness 10000) in paragraph at lines 265--269
 
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 269--274
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 270--275
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--274
+Underfull \hbox (badness 10000) in paragraph at lines 270--275
 
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 279--279
+Underfull \hbox (badness 2237) in paragraph at lines 280--280
 \T1/lmr/m/n/9 (+20) re-pro-ducibil-ity in ar-ti-fi-cial in-tel-li-gence. \T1/lmr/m/it/9 (+20) Na-ture
  []
 
 
-Overfull \hbox (2.05554pt too wide) in paragraph at lines 275--280
+Overfull \hbox (2.05554pt too wide) in paragraph at lines 276--281
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--280
+Underfull \hbox (badness 10000) in paragraph at lines 276--281
 
  []
 
@@ -1165,7 +1168,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  115i,14n,118p,1003b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr5.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Users/Laura/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on patate.pdf (2 pages, 204859 bytes).
+Output written on patate.pdf (2 pages, 204901 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
