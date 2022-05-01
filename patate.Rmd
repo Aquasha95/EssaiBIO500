@@ -22,12 +22,12 @@ keywords:
 - protocole
 - reproductibilité
 - transparence
+
 pnas_type: pnasresearcharticle
 bibliography: pnas-sample.bib
-lineno: no
-output:
-  pdf_document: default
-  html_document: default
+csl: pnas.csl
+lineno: false
+output: html_document
 ---
 
 # Introduction
