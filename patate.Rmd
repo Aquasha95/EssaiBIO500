@@ -25,10 +25,9 @@ keywords:
 pnas_type: pnasresearcharticle
 bibliography: pnas-sample.bib
 
-lineno: no
-output:
-  pdf_document: default
-  html_document: default
+lineno: False
+output: rticles::pnas_article
+  
 ---
 
 # Introduction
